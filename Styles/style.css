@@ -1,0 +1,35 @@
+header{
+ text-align: center;
+ font-size: 200%;
+ margin: 50px;
+
+}
+
+nav{
+ text-align: center;
+  padding-right: 40px;
+  padding-left: 40px;
+}
+
+.btn{
+  padding: 90px;
+}
+
+img{
+  align-items: center;
+  padding: 100px;
+}
+
+#img2{
+align-self: bottom;
+}
+
+p{
+  border: 100px;
+ overflow-block: 100px;
+}
+
+.info{
+  
+}
+
